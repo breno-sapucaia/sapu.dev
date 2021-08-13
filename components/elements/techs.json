@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_elements_techs",
+  "info": {
+    "name": "techs",
+    "icon": "th-large"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
